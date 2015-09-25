@@ -11,13 +11,13 @@
     ul{}\
     #title{text-align:center;}\
     .title a{text-decoration:none;color:#333;cursor:default;}\
-	  #quick_add_input, #search_result, .archiver-tool, #goal_info, #project_info, #task_group .count, .empty-tip-content, .ng-hide{display:none;}\
+	  #quick_add_input, #search_result, .archiver-tool, #goal_info, #project_info, #task_group .count, .empty-tip-content, .comment, .ng-hide{display:none;}\
     h1{font-family: 'Raleway', 'lucida Grande',Tahoma,Arial, serif;margin-bottom:30px;}\
     li{line-height:25px;font-family: 'lucida Grande',Tahoma,Arial;margin-bottom:5px;}\
     .task-checkbox {border: 1px solid #333333;float: left;height: 15px;margin: 4px 10px 0 0;width: 15px;}\
     .title{margin-left:27px;}\
     .taskList{margin-top:10px;}\
-    .project,.context{float:left;margin-right:10px;}\
+    .project,.context{margin-right:10px;}\
     .group h4{border-bottom: 1px solid #000;font-size: 14px;margin: 0;padding-bottom: 5px;}\
     #print{width:600px;margin:0 auto;}\
     #printthis{text-align:right;}\
